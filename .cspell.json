@@ -1,0 +1,25 @@
+{
+  "language": "en",
+  "words": [
+    "Bilde",
+    "Christiaan",
+    "Excalidraw",
+    "Lant",
+    "Nepo",
+    "Ponomarev",
+    "Todos",
+    "Verwijs",
+    "wireframe",
+    "Wireframes",
+    "Yodiz",
+    "Zepel"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    "package.json",
+    "package-lock.json",
+    "**/*.mp4",
+    "**/*.svg",
+    "accessibility_report"
+  ]
+}
